@@ -3,8 +3,8 @@ Full AUTOSAR 4.0.3 Port Driver
 
 Functionalities: 
 
-. Port_Init
-. Port_SetPinDirection
-. Port_RefreshPortDirection
-. Port_GetVersionInfo
-. Port_SetPinMode
+. Port_Init<br/>
+. Port_SetPinDirection<br/>
+. Port_RefreshPortDirection<br/>
+. Port_GetVersionInfo<br/>
+. Port_SetPinMode<br/>
